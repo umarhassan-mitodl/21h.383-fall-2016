@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Medieval History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "legacy_uid": "9a88a79f-0d39-6909-dbd5-85d766b2a7e3",
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c1e0b5c4-b1cb-2ea0-f448-f056e0ac928b",
+    "website": "21h-383-technology-and-the-global-economy-1000-2000-fall-2016"
+  },
+  "course_title": "Technology and the Global Economy, 1000-2000",
+  "course_description": "This seminar examines the global history of the last millennium, including technological change, commodity exchange, systems of production, and economic growth. Students engage with economic history, medieval and early modern origins of modern systems of production, consumption and global exchange. Topics include the long pre-history of modern economic development; medieval world systems; the age of discovery; the global crisis of the 17th century; demographic systems; global population movements; the industrial revolution; the rise of the modern consumer; colonialism and empire building; patterns of inequality, within and across states; the curse of natural resources fate of Africa; and the threat of climate change to modern economic systems. Students taking the graduate version complete additional assignments.",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "21H.982",
+  "primary_course_number": "21H.383",
+  "course_image_thumbnail": {
+    "content": "f561c1bb-23b5-d536-190a-65fde8f5d934",
+    "website": "21h-383-technology-and-the-global-economy-1000-2000-fall-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "ee3af109-b5de-4800-899e-5bff1a69d066",
+  "site_short_id": "21h.383-fall-2016",
+  "site_url_path": "courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016",
+  "title": "Course Metadata"
+}

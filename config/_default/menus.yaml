@@ -1,0 +1,52 @@
+leftnav:
+- identifier: cae662a5-0de7-d289-b79c-f7d6162367ab
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e0d44878-1982-fd9e-5dc4-ef972d908b28
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bd2d1bb6-adcd-8ec3-048c-6c12f7ee1c6a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 5eb82e36-3b40-64cb-bbe6-c55c5a1fd134
+  name: Cities of Commerce
+  pageRef: /pages/assignments/cities-of-commerce
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 50
+- identifier: 533d7f8d-f049-f7e0-507e-93584d1bb63f
+  name: Moral Economy
+  pageRef: /pages/assignments/moral-economy
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 60
+- identifier: 17ee7206-e2d7-8bab-c663-9ce9a5fe342b
+  name: Shaping Medieval Markets
+  pageRef: /pages/assignments/medieval-markets
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 70
+- identifier: 2549a1d6-ecf4-840a-719b-3a99bde8c42a
+  name: Energy and the English Industrial Revolution
+  pageRef: /pages/assignments/energy
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 80
+- identifier: 6400e9ad-3a74-c428-3590-05c673f5e7a7
+  name: Medieval Technology and Social Change
+  pageRef: /pages/assignments/medieval-technology
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 90
+- identifier: 1a1fa1b5-e8c3-318a-3bc2-5cfa4378ebbc
+  name: The Great Divergence
+  pageRef: /pages/assignments/pomeranz
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 100
+- identifier: 4451d442-2695-4116-3639-174b16eeb940
+  name: Why the West Rules-For Now
+  pageRef: /pages/assignments/morris
+  parent: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
+  weight: 110
