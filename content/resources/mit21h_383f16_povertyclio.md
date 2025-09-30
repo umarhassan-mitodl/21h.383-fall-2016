@@ -5,6 +5,8 @@ description: 'This resource contains information regarding the poverty of clio: 
 file: /courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/6e6b3493352dc1d88706eb6f8eb111ef_MIT21H_383F16_PovertyClio.pdf
 file_size: 169632
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

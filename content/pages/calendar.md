@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains the course topics and key due dates for the assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -140,7 +142,7 @@ Reading response due
 
 Slavery, the 'Resource Curse' and Inequality in the Contemporary World?
 
-_Guest speaker: {{% resource_link "4133769e-b0db-49ba-b260-d2e51eb702d8" "Professor Johan Furie" %}}, Department of Economics, Stellenbosch University, South Africa_
+_Guest speaker: [Professor Johan Furie](http://www.ekon.sun.ac.za/jfourie), Department of Economics, Stellenbosch University, South Africa_
 
 
 {{< tdclose >}}

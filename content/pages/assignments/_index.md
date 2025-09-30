@@ -3,6 +3,8 @@ content_type: page
 description: This section contains information on the course assignments, as well
   as some student examples.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -41,7 +43,7 @@ The book reviews will be worth 30% of the final grade.
 
 For the historiographical essay, you may select your own topic (and within that a framing question) from among those considered in the course. Undergraduate students should write an 8–10 page paper (graduate students should aim for 20). All students should also develop a useful bibliography on the topic. The expectation is that you will encompass a major literature while demonstrating the ability to think critically about the theories and methods engaged by other historians to answer the question you have posed. You should organize the paper around this question, giving careful consideration to why different historians sometimes answer important questions in such different ways.
 
-An excellent guide for writing an annotated bibliography is available from the {{% resource_link "de356793-eeab-45fc-a746-a3766aefa075" "Williams College Libraries" %}}.
+An excellent guide for writing an annotated bibliography is available from the [Williams College Libraries](http://libguides.williams.edu/annotated-bibliography).
 
 The essay will be worth 30% of the final grade.
 

@@ -5,6 +5,8 @@ description: 'This resource contains information regarding built for success: or
 file: /courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/8fbb898b89a5344c30861abdd5e82e75_MIT21H_383F16_BuiltSuccess.pdf
 file_size: 392342
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
